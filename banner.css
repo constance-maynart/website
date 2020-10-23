@@ -1,0 +1,20 @@
+.banner {
+   background-image: linear-gradient(-225deg, rgba(51, 101, 138,0.8) 0%, rgba(46, 134, 171,0.8) 50%), url(../../pictures/vieux.jpg);
+   background-size: cover;
+   background-position: center;
+   color: white;
+   padding: 150px 0px;
+   margin-bottom: 40px;
+}
+
+.banner h1 {
+   font-size: 40px;
+   font-weight: lighter;
+}
+
+.banner h2 {
+   font-size: 30px;
+   font-weight: lighter;
+   opacity: 0.8;
+   margin-bottom: 40px;
+}

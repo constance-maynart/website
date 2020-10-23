@@ -1,0 +1,21 @@
+.list-inline {
+   list-style: none;
+   padding: 0px auto;
+   padding-left: 0px;
+}
+
+.list-inline li {
+   display: inline;
+   padding: 10px;
+}
+
+.list-inline img {
+   border-radius: 50%;
+   width: 175px;
+   height: 175px;
+   margin: 2px;
+}
+
+.list-inline p {
+   text-align: center;
+}
